@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(19, 22, 68);
+    color: cornsilk;
+}
+
+/* body * {
+    border: solid crimson 1px;
+    margin: 5px;
+} */
+
+.boton {
+    background-color: crimson;
+}
+
+.red {
+    background-color: crimson;
+}
+
+.green {
+    background-color: darkgreen;
+}
+
+.blue {
+    background-color: dodgerblue;
+}
+
+.violet {
+    background-color: violet;
+}
+
+.margen-lugar-foto {
+    margin-bottom: 2em;
+}
+
